@@ -33,7 +33,12 @@ A level-based **Memory Card Game** built using **HTML, CSS, and JavaScript**, wh
 
 memory-card-game/
 │── index.html
+
 │── style.css
+
 │── script.js
+
 │── README.md
+
+
 
